@@ -1,0 +1,334 @@
+[
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\unselected_banner.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\unselected_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\like.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\selected_banner.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\selected_banner.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\blank_book.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\blank_book.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btnbuy.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\btnbuy.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\unconfirm.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\unconfirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\user_unselect.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\user_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\recyclebin.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\recyclebin.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home_select.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\home_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\user_select.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\user_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\banner3.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\banner3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cart_unselect.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\cart_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cart_select.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\cart_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\bookstore.jpeg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\bookstore.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\banner4.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\banner4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\banner1.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\banner1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\home_unselect.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\home_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\books.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\books.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\add_shopping_cart.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\add_shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\buttonshape.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\buttonshape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\arrow_right.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search_unselect.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\search_unselect.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\splash_activity_background.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\splash_activity_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\divider.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\divider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\books3.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\books3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\book_image2.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\book_image2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\book.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\book.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\unlike.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\unlike.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\book_image.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\book_image.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\books2.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\books2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\search_select.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\search_select.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\banner2.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\banner2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\admin_background.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\admin_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\confirm.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\banner5.jpg",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\banner5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\buttonshape1.xml",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\src\\main\\res\\drawable-xxhdpi\\buttonshape1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\BookStore\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    }
+]
